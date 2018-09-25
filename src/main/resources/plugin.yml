@@ -1,0 +1,5 @@
+name: WorldHunger
+version: ${project.version}
+main: me.glaremasters.worldhunger.Worldhunger
+authors: [blockslayer22]
+description: Ending world hunger one event at a time.
